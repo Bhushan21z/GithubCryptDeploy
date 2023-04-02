@@ -1,4 +1,4 @@
-# Replit Solidity Template
+# Replit Solidity Deployment
 Welcome to the world of Ethereum and Web3! This is a beta template for Solidity development on Replit. Solidity is the language used to create Smart Contracts, which are programs that run on the Ethereum Blockchain.
 
 Features include:
